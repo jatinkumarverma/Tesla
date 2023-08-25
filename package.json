@@ -1,6 +1,7 @@
 {
   "name": "tesla-clone",
   "version": "0.1.0",
+  "homepage": "https://jatinkumarverma.github.io/Tesla/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.5.0",
